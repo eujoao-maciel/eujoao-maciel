@@ -2,7 +2,7 @@
 
 Meu nome é João Eudes, sou desenvolvedor Front-End focado em criar soluções práticas e interfaces que realmente fazem sentido para o usuário.
 
-🔧 Tecnologias que uso no dia a dia:
+Tecnologias:
 
     React para construção de interfaces modernas
 
