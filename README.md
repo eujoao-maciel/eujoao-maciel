@@ -1,16 +1,15 @@
-## Hi there 👋
+👋 Olá!
 
-<!--
-**eujoao-maciel/eujoao-maciel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é João Eudes, sou desenvolvedor Front-End focado em criar soluções práticas e interfaces que realmente fazem sentido para o usuário.
 
-Here are some ideas to get you started:
+🔧 Tecnologias que uso no dia a dia:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    React para construção de interfaces modernas
+
+    Node.js para integrar com o backend quando preciso
+
+    MySQL e MongoDB para lidar com dados
+
+    Além de outras ferramentas que complementam o ecossistema front-end
+
+Curioso por natureza e fã de gatos. 🐱
