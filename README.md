@@ -1,6 +1,6 @@
-👋 Olá!
+Oi
 
-Meu nome é João Eudes, sou desenvolvedor Front-End focado em criar soluções práticas e interfaces que realmente fazem sentido para o usuário.
+Meu nome é João Maciel, sou desenvolvedor Front-End focado em criar soluções práticas e interfaces que realmente fazem sentido para o usuário.
 
 Tecnologias:
 
@@ -8,7 +8,7 @@ Tecnologias:
 
     Node.js para integrar com o backend quando preciso
 
-    MySQL e MongoDB para lidar com dados
+    MySQL, PostgreSQL e MongoDB para lidar com dados
 
     Além de outras ferramentas que complementam o ecossistema front-end
 
