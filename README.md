@@ -2,8 +2,8 @@
 
 <h3 align="left">About</h3> 
 
-- **Working on:** [AskFlow API](https://github.com/your-username/askflow-api) — a backend API built with Fastify to answer questions using AI.
-- **Last project:** [Hero Tuner](https://github.com/your-username/hero-tuner) — a guitar tuner web app built with React, Vite and the Web Audio API, featuring real-time pitch detection, a manual mode and animated tuning feedback.
+- **Working on:** [AskFlow API](https://github.com/eujoao-maciel/askFlow-api) — a backend API built with Fastify to answer questions using AI.
+- **Last project:** [Hero Tuner](https://github.com/eujoao-maciel/heroTuner) — a guitar tuner web app built with React, Vite and the Web Audio API, featuring real-time pitch detection, a manual mode and animated tuning feedback.
 - **Learning:** Software Architecture (modularity, coupling, cohesion), TypeScript and automated testing.
 - **Daily technologies:**
 
